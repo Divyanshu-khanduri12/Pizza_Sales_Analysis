@@ -3,6 +3,23 @@
 This is an end-to-end data analysis project on pizza sales data using Excel, SQL, and Power BI. The goal is to explore sales trends, top products, and business insights with the help of data visualizations.
 
 ## 📁 Folder Structure
+Pizza-Sales-Dashboard/
+│
+├── data/
+│ └── pizza_sales_data.csv
+│
+├── dashboard/
+│ ├── Pizza_Sales_Dashboard.pbix
+│ ├── dashboard_screenshot_1.png
+│ └── dashboard_screenshot_2.png
+│
+├── documentation/
+│ ├── Pizza_Sales_Dashboard_Documentation.docx
+│ └── README.md
+│ ├── sql/
+│ ├── pizza_sales_queries.sql
+ └── pizza_sales_queries.docx
+
 
 ## 🧰 Tools Used
 
